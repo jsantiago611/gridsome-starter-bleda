@@ -1,7 +1,7 @@
 module.exports = {
   siteName: 'A blog starter for Gridsome',
   siteDescription: "Bleda is a blog starter kit for Gridsome, the Vue.js static site generator. It's inspired by Attila for Ghost, and styled with Tailwind CSS.",
-  siteUrl: 'https://gridsome-starter-bleda.netlify.com',
+  siteUrl: 'https://cocky-jones-8021ff.netlify.app/',
   titleTemplate: `%s | Bleda`,
   icon: 'src/favicon.png',
 
