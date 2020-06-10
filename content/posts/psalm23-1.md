@@ -10,7 +10,9 @@ excerpt: "The LORD is my shepherd; I shall not want."
 
 ## Today's Text:
 
-<mark>The LORD is my shepherd; I shall not want. (Psalm 23:1)<mark>
+> The LORD is my shepherd; I shall not want. (Psalm 23:1)
+
+
 
 ## Today's Prayer:
 
@@ -30,11 +32,15 @@ Thank you for your faithfulness in walking with me through all the seasons of my
 
 In Jesus, The Good Shepherd's Name, amen. 
 
+
+
 ## Today's Affirmation:
 
 As you go about your day, try praying this one request:
 
-Lord, Shepherd me. 
+<mark>Lord, Shepherd me.<mark>
+    
+    
 
 ## Today's Quote:
 
