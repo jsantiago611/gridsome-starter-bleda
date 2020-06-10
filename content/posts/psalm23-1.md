@@ -1,10 +1,10 @@
-
 ---
-title: "Lord, Shepherd My Family - Psalm 23:1" 
+title: "Lord, Shepherd My Family - Psalm 23:1"
+description: "A short prayer based on Psalm 23:1"
 slug: shepherd-my-fam 
-description: "A short prayer based on Psalm 23:1" # required, used in meta tags and RSS feed
-date: 2020-06-10 
-tags: ['Psalms'] # optional
+date: 2020-06-10 15:07:17
+tags:
+    - psalms
 excerpt: "The LORD is my shepherd; I shall not want."
 ---
 
