@@ -8,13 +8,13 @@ tags:
 excerpt: "The LORD is my shepherd; I shall not want."
 ---
 
-## Today's Text:
+### Today's Text:
 
 > The LORD is my shepherd; I shall not want. (Psalm 23:1)
 
 
 
-## Today's Prayer:
+### Today's Prayer:
 
 **The Lord is my Shepherd…**
 
@@ -34,7 +34,7 @@ In Jesus, The Good Shepherd's Name, amen.
 
 
 
-## Today's Affirmation:
+### Today's Affirmation:
 
 As you go about your day, try praying this one request:
 
@@ -42,6 +42,6 @@ As you go about your day, try praying this one request:
     
     
 
-## Today's Quote:
+### Today's Quote:
 
 > "If He be a shepherd to no one else, He is a Shepherd to me. He cares for me, watches over me, and preserves me." -Charles H. Spurgeon
