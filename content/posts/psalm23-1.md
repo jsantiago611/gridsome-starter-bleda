@@ -1,14 +1,11 @@
 
 ---
 title: "Lord, Shepherd My Family - Psalm 23:1" 
-slug: shepherd-my-fam url 
+slug: shepherd-my-fam 
 description: "A short prayer based on Psalm 23:1" # required, used in meta tags and RSS feed
 date: 2020-06-10 
-author: # optional
 tags: ['Psalms'] # optional
-cover:  # optional parallax post cover image
-fullscreen: false # optional - when `true`, makes parallax cover image take up full viewport height
-excerpt: "The LORD is my shepherd; I shall not want." # optional
+excerpt: "The LORD is my shepherd; I shall not want."
 ---
 
 # Today's Text:
