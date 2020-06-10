@@ -1,9 +1,9 @@
 
 ---
-title: "Lord, Shepherd My Family (Psalm 23:1)" # required
-slug: shepherd-my-fam url # optional, override the auto-generated post slug
+title: "Lord, Shepherd My Family - Psalm 23:1" 
+slug: shepherd-my-fam url 
 description: "A short prayer based on Psalm 23:1" # required, used in meta tags and RSS feed
-date: 2019-06-10 17:54:43 # required; time is optional, but recommended for the <time> tag and better post sorting control
+date: 2020-06-10 
 author: # optional
 tags: ['Psalms'] # optional
 cover:  # optional parallax post cover image
