@@ -18,9 +18,7 @@ excerpt: "The LORD is my shepherd; I shall not want."
 
 **The Lord is my Shepherd…**
 
-Lord, you are the great shepherd who cares for me. Thank you for being more than a “distant ‘king’ or ‘deliver’, or an impersonal ‘rock’, ’shield’ ”[^1]. You live with your flock and are my guide, physician, and protector. 
-
-[^1]: Quoted from Derek Kidner's Commentary in the Tyndale Old Testament Commentaries Series. 
+Lord, you are the great shepherd who cares for me. Thank you for being more than a “distant ‘king’ or ‘deliver’, or an impersonal ‘rock’, ’shield’ ”. You live with your flock and are my guide, physician, and protector. 
 
 Lord, Would you shepherd me today? 
 
